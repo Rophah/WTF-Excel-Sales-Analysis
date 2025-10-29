@@ -104,13 +104,33 @@ Finally, I established proper relationships between tables using the correct pri
 <br><br>
 ![Dashboard Overview](images/dashboard.PNG)
 <br><br>
+**2️⃣ Sales Table – Before Cleaning**
+<br><br>
+![Sales table-Raw Data Overview](images/sales_dirty.PNG)
+<br><br>
+**3️⃣ Sales Table – After Cleaning**
+<br><br>
+![Sales table-After Cleaning Overview](images/sales_cleaned_data.PNG)
+<br><br>
+** Fact table**
+<br><br>
+![Fact table Overview](images/fact_table.PNG)
+<br><br>
+**Calendar Table (Dimension)**
+<br><br>
+![Calendar table Overview](images/calendar.PNG)
+<br><br>
+** Country table (Dimension)**
+<br><br>
+![Country table Overview](images/country.PNG)
+<br><br>
+**Customer table  (Dimension)**
+<br><br>
+![Customer table Overview](images/customer.PNG)
+<br><br>
+**3️⃣ Product table (Dimension)**
+<br><br>
+![Product table Overview](images/product.PNG)
+<br><br>
 
-![RAW DATASET]<img width="1566" height="812" alt="sales_dirty" src="https://github.com/user-attachments/assets/0e5958c2-0690-45e3-b94a-a368250e1d06" />
 
-![RAW DATASET]<img width="1571" height="862" alt="calendar" src="https://github.com/user-attachments/assets/dd04bdf8-ec99-44d7-9cd4-b5f01abce5ca" />
-![<img width="493" height="812" alt="country" src="https://github.com/user-attachments/assets/8a8db3e4-42a2-4010-afe6-2571830bb807" />]
-
-
-![<img width="620" height="861" alt="customer" src="https://github.com/user-attachments/assets/d11b08f5-9325-4671-8856-d660627dc611" />]
-![<img width="1583" height="864" alt="fact_table" src="https://github.com/user-attachments/assets/b779c622-a356-49cd-9bfd-ab8fd38c5f73" />]
-![<img width="1449" height="568" alt="dashboard" src="https://github.com/user-attachments/assets/ec67105e-0b16-4bcf-9f69-f4544f407c0e" />]
