@@ -100,7 +100,10 @@ Finally, I established proper relationships between tables using the correct pri
 
 ## 📸 Visuals & Dashboard
 
-
+**1️⃣ Dashboard Overview**
+<br><br>
+![Dashboard Overview](images/dashboard.png)
+<br><br>
 
 ![RAW DATASET]<img width="1566" height="812" alt="sales_dirty" src="https://github.com/user-attachments/assets/0e5958c2-0690-45e3-b94a-a368250e1d06" />
 
