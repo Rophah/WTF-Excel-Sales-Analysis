@@ -102,9 +102,9 @@ Finally, I established proper relationships between tables using the correct pri
 
 
 
-![<img width="1566" height="812" alt="sales_dirty" src="https://github.com/user-attachments/assets/0e5958c2-0690-45e3-b94a-a368250e1d06" />]
+![RAW DATASET]<img width="1566" height="812" alt="sales_dirty" src="https://github.com/user-attachments/assets/0e5958c2-0690-45e3-b94a-a368250e1d06" />
 
-![<img width="1571" height="862" alt="calendar" src="https://github.com/user-attachments/assets/dd04bdf8-ec99-44d7-9cd4-b5f01abce5ca" />]
+![RAW DATASET]<img width="1571" height="862" alt="calendar" src="https://github.com/user-attachments/assets/dd04bdf8-ec99-44d7-9cd4-b5f01abce5ca" />
 ![<img width="493" height="812" alt="country" src="https://github.com/user-attachments/assets/8a8db3e4-42a2-4010-afe6-2571830bb807" />]
 
 
