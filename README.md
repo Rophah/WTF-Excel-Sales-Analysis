@@ -112,25 +112,23 @@ Finally, I established proper relationships between tables using the correct pri
 <br><br>
 ![Sales table-After Cleaning Overview](images/sales_cleaned_data.PNG)
 <br><br>
-** Fact table**
+**4️⃣ Fact table**
 <br><br>
 ![Fact table Overview](images/fact_table.PNG)
 <br><br>
-**Calendar Table (Dimension)**
+**5️⃣ Calendar Table (Dimension)**
 <br><br>
 ![Calendar table Overview](images/calendar.PNG)
 <br><br>
-** Country table (Dimension)**
+**6️⃣ Country table (Dimension)**
 <br><br>
 ![Country table Overview](images/country.PNG)
 <br><br>
-**Customer table  (Dimension)**
+**7️⃣ Customer table  (Dimension)**
 <br><br>
 ![Customer table Overview](images/customer.PNG)
 <br><br>
-**3️⃣ Product table (Dimension)**
+**8️⃣ Product table (Dimension)**
 <br><br>
 ![Product table Overview](images/product.PNG)
 <br><br>
-
-
