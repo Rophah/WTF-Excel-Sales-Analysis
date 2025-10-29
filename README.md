@@ -6,15 +6,17 @@ This project explores and visualizes sales performance data for two countries (G
 
 ## 🧩 Project Context
 
-Industry: Fintech & Sales Analytics
-Role: Junior Data Analyst
-Tools Used: Microsoft Excel (Pivot Tables, Charts, Slicers, Conditional Formatting, KPI Cards)
+**Industry**: Fintech & Sales Analytics
+**Role**: Junior Data Analyst
+**Tools Used**: Microsoft Excel (Pivot Tables, Charts, Slicers, Conditional Formatting, KPI Cards)
+
+---
 
 ## 🎯 Project Objectives / Key Questions
 
 This project explores sales data to uncover trends, performance patterns, and seasonality insights across multiple years. It is divided into two main sections: A (Country Analysis) and B (Product Performance Analysis).
 
-Section A — Country Sales Trends
+**Section A** — Country Sales Trends
 
 1. Revenue Behavior: Highlight the sales revenue trend of the two countries over the years.
 
@@ -22,7 +24,7 @@ Section A — Country Sales Trends
 
 3. Crisis Impact: Excluding Silicon Valley Bikes, compare monthly sales revenue year-over-year and relate the findings to the 2008 Lehman Brothers financial crisis.
 
-Section B — Product Performance & Seasonality
+**Section B** — Product Performance & Seasonality
 
 1. Flop Product: Determine the product with the lowest sales quantity each year.
 
@@ -32,16 +34,18 @@ Section B — Product Performance & Seasonality
 
 4. Seasonal Behavior Case Study: Examine whether bicycles and accessories show expected seasonality patterns (higher sales in spring/summer). Identify any products that lack seasonality and support findings with temporal charts.
 
+---
+
 ## 🗂️ Dataset Description
 
-Total Records: 48,384
-Columns: 23
+**Total Records**: 48,384
+**Columns**: 23
 
 Each row in the dataset represents a single sales transaction, detailing the customer, product, and financial performance of each sale across different regions and time periods.
 
 This dataset was provided as part of a data analysis skill assessment project, designed to test the ability to identify, clean, and use the most relevant fields for accurate analysis and reporting. Specifically, it includes duplicate financial columns — one set in mixed currencies and another converted to U.S. dollars (USD).
 
-Fields Included:
+**Fields included**:
 
 YEAR, MONTH, DAY: Transaction date details used for temporal and seasonal analysis.
 
@@ -69,8 +73,10 @@ CostOfGoodsManufactured (Mixed Currency) / CostOfGoodsManufactured (USD): Produc
 
 Currency: Indicates the original currency before conversion.
 
-Note:
+**Note**:
 All analyses, visualizations, and insights in this project are based on the USD-converted columns (Revenue USD, Discount USD, and COGM USD) to ensure consistency and comparability across countries.
+
+---
 
 ## 🧹 Data Cleaning & Preparation
 
@@ -89,6 +95,8 @@ Removed duplicates from all dimension tables to maintain data integrity.
 For the Fact table, I used the USD columns for Revenue, Discount, and COGM, since they were the standardized versions of the mixed-currency values.
 
 Finally, I established proper relationships between tables using the correct primary keys in the model view.
+
+---
 
 ## 📸 Visuals & Dashboard
 
