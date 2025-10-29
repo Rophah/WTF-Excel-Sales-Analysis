@@ -1,15 +1,14 @@
-
-📊  WTF-Sales-Analysis
+# 📊  WTF-Sales-Analysis
 
 This project explores and visualizes sales performance data for two countries (Germany and United States) across multiple years and regions using Excel. The dataset includes detailed transaction records such as revenue, sales quantity, cost of goods manufactured (COGM), discounts, and customer information from Germany and the United States.
 
-🧩 Project Context
+## 🧩 Project Context
 
 Industry: Fintech & Sales Analytics
 Role: Junior Data Analyst
 Tools Used: Microsoft Excel (Pivot Tables, Charts, Slicers, Conditional Formatting, KPI Cards)
 
-🎯 Project Objectives / Key Questions
+## 🎯 Project Objectives / Key Questions
 
 This project explores sales data to uncover trends, performance patterns, and seasonality insights across multiple years. It is divided into two main sections: A (Country Analysis) and B (Product Performance Analysis).
 
@@ -31,7 +30,7 @@ Section B — Product Performance & Seasonality
 
 4. Seasonal Behavior Case Study: Examine whether bicycles and accessories show expected seasonality patterns (higher sales in spring/summer). Identify any products that lack seasonality and support findings with temporal charts.
 
-🗂️ Dataset Description
+## 🗂️ Dataset Description
 
 Total Records: 48,384
 Columns: 23
@@ -71,7 +70,7 @@ Currency: Indicates the original currency before conversion.
 Note:
 All analyses, visualizations, and insights in this project are based on the USD-converted columns (Revenue USD, Discount USD, and COGM USD) to ensure consistency and comparability across countries.
 
-🧹 Data Cleaning & Preparation
+## 🧹 Data Cleaning & Preparation
 
 I performed all the cleaning and setup in Excel before moving into analysis. Here’s what I worked on:
 
@@ -89,7 +88,7 @@ For the Fact table, I used the USD columns for Revenue, Discount, and COGM, sinc
 
 Finally, I established proper relationships between tables using the correct primary keys in the model view.
 
-📸 Visuals & Dashboard
+## 📸 Visuals & Dashboard
 
 
 
