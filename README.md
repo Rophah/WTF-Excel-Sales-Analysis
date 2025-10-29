@@ -2,6 +2,8 @@
 
 This project explores and visualizes sales performance data for two countries (Germany and United States) across multiple years and regions using Excel. The dataset includes detailed transaction records such as revenue, sales quantity, cost of goods manufactured (COGM), discounts, and customer information from Germany and the United States.
 
+---
+
 ## 🧩 Project Context
 
 Industry: Fintech & Sales Analytics
