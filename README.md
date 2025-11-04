@@ -32,7 +32,7 @@ This project explores sales data to uncover trends, performance patterns, and se
 
 2. Pattern Analysis: Identify possible reasons for the observed sales behavior using evidence from the data.
 
-3. Crisis Impact: Excluding Silicon Valley Bikes, compare monthly sales revenue year-over-year and relate the findings to the 2008 Lehman Brothers financial crisis.
+3. Crisis Impact: Excluding Silicon Valley Bikes, compare monthly sales revenue year-over-year 2007 and 2008
 
 **Section B** — Product Performance & Seasonality
 
