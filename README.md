@@ -9,9 +9,10 @@ This project explores and visualizes sales performance data for two countries (G
 - [Dataset Description](#dataset-description)
 - [Data Cleaning & Preparation](#data-cleaning--preparation)
 - [Visuals & Dashboard](#visuals--dashboard)
-- [Tools Used](#tools-used)
-- [Author](#author)
-- [License](#license)
+- [Data Analysis & Insights](#Data-Analysis--Insights)
+- [Key Insights Summary](Key-Insights-Summary)
+- [Recommendations](#Recommendations)
+- [Contact](#Contact)
 ---
 
 ## 🧩 Project Context
@@ -142,3 +143,102 @@ Finally, I established proper relationships between tables using the correct pri
 <br><br>
 ![Product table Overview](images/product.PNG)
 <br><br>
+
+---
+
+📊 Data Analysis & Insights
+
+After cleaning and structuring the dataset, several analyses were conducted in Microsoft Excel using Pivot Tables, Pivot Charts, Slicers, and Conditional Formatting to explore trends, performance, and seasonal patterns across countries and product categories.
+<br>
+**🏁 Section A — Country Sales Performance**
+
+1. Sales Revenue Trend:
+
+The two countries showed varying revenue patterns over the years.
+
+Germany displayed steady growth, while USA experienced fluctuations, likely influenced by market size, customer base, and external economic conditions.
+
+2. Possible Causes of Variation:
+
+Differences in product demand, and purchasing power were key drivers of these variations.
+
+Promotional discounts and currency effects also contributed to revenue differences.
+
+3. After excluding Silicon Valley Bikes, the year-over-year comparison showed a noticeable dip in monthly revenue during 2008.
+
+<br>
+
+**🚴 Section B — Product Performance & Seasonality**
+
+1. Flop Products:
+
+Each year had 3 products(Fixed Gear Bike, City Bike Max, E-bike Tailwind) with very low sales quantities, indicating poor customer interest or overpricing.
+
+Such items may require re-evaluation or marketing adjustments.
+
+2. Top-Selling Products:
+
+The three top revenue gennerating categories( Air pump,deluxe Road Bike, Men's off road bike hard tail) consistently generated the highest revenue across all years.
+
+3. Category Contribution (2011 Focus):
+
+In 2011, Off-Road Bikes contributed approximately 23% to overall bicycle sales.
+
+4. Seasonal Behavior Case Study:
+
+As expected, sales peaked during spring and summer months raising from March to June, reflecting increased outdoor activity. However, there was dropped in sales from June to December.
+
+Temporal charts confirmed these patterns through visible monthly and quarterly trends.
+<br><br>
+---
+<br><br>
+
+💡 Key Insights Summary
+
+Germany generated the highest overall revenue throughout the year.
+
+Bike-related products remain the main revenue drivers.
+
+Seasonal sales behavior aligns with outdoor weather patterns.
+<br><br>
+**💡 Recommendations**
+
+Based on the sales analysis and insights drawn from the dataset, the following recommendations are suggested to help improve business performance and decision-making:
+
+1. Focus on High-Performing Product Categories:
+Continue to prioritize product categories with consistent revenue growth (e.g., Off-Road Bikes and Touring Bikes). Allocate more marketing and inventory resources to these categories.
+
+2. Revisit Underperforming Products:
+Products with persistently low sales volumes should be reviewed. Consider strategies such as redesign, bundling with high-selling items, or targeted discount promotions to improve performance.
+
+3. Strengthen Country-Specific Sales Strategies:
+Since sales trends vary between countries, tailor marketing and pricing strategies based on regional demand patterns and seasonality.
+
+4. Manage Seasonal Demand Efficiently:
+Seasonal patterns indicate higher sales during spring and summer. Stock levels, promotional campaigns, and staffing should align with these peaks to maximize profit and reduce overstock in off-peak months.
+
+5. Leverage Data Continuously:
+Maintain a consistent sales data tracking system to enable real-time insights, improve forecasting accuracy, and support data-driven business decisions.
+<br><br>
+
+<br><br>
+🏁 Conclusion
+
+This project applied data analysis techniques in Microsoft Excel to uncover key sales trends, product performance insights, and seasonal behaviors.
+
+Overall, the project reinforced the power of data-driven decision-making in identifying business opportunities and improving performance through insight-led strategies.
+<br><br>
+
+**📬 Contact**
+
+I’d love to connect and discuss more about data analytics, visualization, or collaborative projects!
+
+💼 LinkedIn: www.linkedin.com/in/rafatadebanjo
+
+📧 Email: aderafat.com
+
+💻 GitHub: https://github.com/Rophah
+
+Feel free to reach out — let’s turn data into meaningful insights together! 🚀
+
+
