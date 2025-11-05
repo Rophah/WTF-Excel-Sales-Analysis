@@ -16,6 +16,7 @@ This project explores and visualizes sales performance data for two countries (G
 - [Recommendations](#-recommendations)
 - [Conclusion](#-conclusion)
 - [Contact](#-contact)
+</details>
 
 ---
 
