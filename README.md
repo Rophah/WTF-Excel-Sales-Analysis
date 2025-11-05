@@ -117,7 +117,7 @@ Finally, I established proper relationships between tables using the correct pri
 
 **1️⃣ Dashboard Overview**
 <br><br>
-![Dashboard Overview](images/dashboard.PNG)
+![Dashboard Overview](images/ddashboard.PNG)
 <br><br>
 **2️⃣ Sales Table – Before Cleaning**
 <br><br>
