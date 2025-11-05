@@ -9,10 +9,10 @@ This project explores and visualizes sales performance data for two countries (G
 - [Dataset Description](#dataset-description)
 - [Data Cleaning & Preparation](#data-cleaning--preparation)
 - [Visuals & Dashboard](#visuals--dashboard)
-- [Data Analysis & Insights](#Data-Analysis--Insights)
-- [Key Insights Summary](Key-Insights-Summary)
-- [Recommendations](#Recommendations)
-- [Contact](#Contact)
+- [Data Analysis & Insights](#data-analysis--insights)
+- [Key Insights Summary](#key-insights-summary)
+- [Recommendations](#recommendations)
+- [Contact](#contact)
 ---
 
 ## 🧩 Project Context
@@ -146,7 +146,7 @@ Finally, I established proper relationships between tables using the correct pri
 
 ---
 
-📊 Data Analysis & Insights
+## 📊 Data Analysis & Insights
 
 After cleaning and structuring the dataset, several analyses were conducted in Microsoft Excel using Pivot Tables, Pivot Charts, Slicers, and Conditional Formatting to explore trends, performance, and seasonal patterns across countries and product categories.
 <br>
@@ -193,7 +193,7 @@ Temporal charts confirmed these patterns through visible monthly and quarterly t
 ---
 <br><br>
 
-💡 Key Insights Summary
+## 💡 Key Insights Summary
 
 Germany generated the highest overall revenue throughout the year.
 
@@ -201,7 +201,11 @@ Bike-related products remain the main revenue drivers.
 
 Seasonal sales behavior aligns with outdoor weather patterns.
 <br><br>
-**💡 Recommendations**
+
+---
+
+<br><br>
+## 💡 Recommendations
 
 Based on the sales analysis and insights drawn from the dataset, the following recommendations are suggested to help improve business performance and decision-making:
 
@@ -220,16 +224,18 @@ Seasonal patterns indicate higher sales during spring and summer. Stock levels, 
 5. Leverage Data Continuously:
 Maintain a consistent sales data tracking system to enable real-time insights, improve forecasting accuracy, and support data-driven business decisions.
 <br><br>
-
+---
 <br><br>
-🏁 Conclusion
+## 🏁 Conclusion
 
 This project applied data analysis techniques in Microsoft Excel to uncover key sales trends, product performance insights, and seasonal behaviors.
 
 Overall, the project reinforced the power of data-driven decision-making in identifying business opportunities and improving performance through insight-led strategies.
 <br><br>
 
-**📬 Contact**
+---
+
+## 📬 Contact
 
 I’d love to connect and discuss more about data analytics, visualization, or collaborative projects!
 
