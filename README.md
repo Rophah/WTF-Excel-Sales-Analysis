@@ -189,9 +189,9 @@ In 2011, Off-Road Bikes contributed approximately 23% to overall bicycle sales.
 As expected, sales peaked during spring and summer months raising from March to June, reflecting increased outdoor activity. However, there was dropped in sales from June to December.
 
 Temporal charts confirmed these patterns through visible monthly and quarterly trends.
-<br><br>
+
 ---
-<br><br>
+
 
 ## 💡 Key Insights Summary
 
@@ -200,11 +200,8 @@ Germany generated the highest overall revenue throughout the year.
 Bike-related products remain the main revenue drivers.
 
 Seasonal sales behavior aligns with outdoor weather patterns.
-<br><br>
 
 ---
-
-<br><br>
 ## 💡 Recommendations
 
 Based on the sales analysis and insights drawn from the dataset, the following recommendations are suggested to help improve business performance and decision-making:
@@ -223,15 +220,15 @@ Seasonal patterns indicate higher sales during spring and summer. Stock levels, 
 
 5. Leverage Data Continuously:
 Maintain a consistent sales data tracking system to enable real-time insights, improve forecasting accuracy, and support data-driven business decisions.
-<br><br>
+
 ---
-<br><br>
+
 ## 🏁 Conclusion
 
 This project applied data analysis techniques in Microsoft Excel to uncover key sales trends, product performance insights, and seasonal behaviors.
 
 Overall, the project reinforced the power of data-driven decision-making in identifying business opportunities and improving performance through insight-led strategies.
-<br><br>
+
 
 ---
 
