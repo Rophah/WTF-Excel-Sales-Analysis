@@ -238,7 +238,7 @@ I’d love to connect and discuss more about data analytics, visualization, or c
 
 💼 LinkedIn: www.linkedin.com/in/rafatadebanjo
 
-📧 Email: aderafat.com
+📧 Email: aderafat.gmail.com
 
 💻 GitHub: https://github.com/Rophah
 
