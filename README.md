@@ -3,16 +3,20 @@
 This project explores and visualizes sales performance data for two countries (Germany and United States) across multiple years and regions using Excel. The dataset includes detailed transaction records such as revenue, sales quantity, cost of goods manufactured (COGM), discounts, and customer information from Germany and the United States.
 
 ---
-## 🧠 Table of Contents
-- [Project Context](#project-context)
-- [Key Questions](#key-questions)
-- [Dataset Description](#dataset-description)
-- [Data Cleaning & Preparation](#data-cleaning--preparation)
-- [Visuals & Dashboard](#visuals--dashboard)
-- [Data Analysis & Insights](#data-analysis--insights)
-- [Key Insights Summary](#key-insights-summary)
-- [Recommendations](#recommendations)
-- [Contact](#contact)
+<details>
+<summary>🧠 <b>Table of Contents</b></summary>
+
+- [Project Context](#-project-context)
+- [Key Questions](#-key-questions)
+- [Dataset Description](#️-dataset-description)
+- [Data Cleaning & Preparation](#-data-cleaning--preparation)
+- [Visuals & Dashboard](#-visuals--dashboard)
+- [Data Analysis & Insights](#-data-analysis--insights)
+- [Key Insights Summary](#-key-insights-summary)
+- [Recommendations](#-recommendations)
+- [Conclusion](#-conclusion)
+- [Contact](#-contact)
+
 ---
 
 ## 🧩 Project Context
